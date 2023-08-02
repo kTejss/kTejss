@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)
 
 <h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tejas Kotkar</b></h1>
 
@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kTejss&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
 
-<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
 <br>
 
