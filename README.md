@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Web%20Developer%20|%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Web%20Developer%20|%20Developer;Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
 
@@ -74,7 +74,7 @@
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anirudha1710&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kTejss&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 <br>
 
 <!-- RAINBOW LINE BOT -->
