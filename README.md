@@ -61,6 +61,16 @@
 
 <br>
 
+## 💡 Leetcode Statistics
+![Leetcode Stats](https://leetcard.jacoblin.cool/kTejss?ext=heatmap)
+
+<br>
+
+# 📊 GitHub Contribution Graph:
+
+[![Anirudha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kTejss&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 # 📊 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=kTejss&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
