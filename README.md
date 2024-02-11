@@ -62,9 +62,15 @@
 <br>
 
 ## 💡 Leetcode Statistics
-![Leetcode Stats](https://leetcard.jacoblin.cool/kTejss?ext=heatmap)
+
+![](https://leetcard.jacoblin.cool/kTejss?ext=activity)
+<br>
+
+## 💡 Gfg Statistics
+[![Tejas's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kotkartejas16)](https://auth.geeksforgeeks.org/user/kotkartejas16)
 
 <br>
+
 
 # 📊 GitHub Contribution Graph:
 
