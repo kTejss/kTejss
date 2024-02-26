@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kTejss&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kTejss&label=Profile%20views&color=0e75b6&style=flat" alt="kTejss" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
