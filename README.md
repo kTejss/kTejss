@@ -36,7 +36,7 @@
 
 <br>
 
-- 🔭 I’m currently working on .Krishi Care
+- 🔭 I’m currently working on :Krishi Care
 
 - 🌱 I’m currently learning *React JS*
 
